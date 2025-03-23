@@ -9,6 +9,10 @@
 </div>
 
 <p align="right">
-  ![GitHub followers](https://img.shields.io/github/followers/aicccux?style=social)  
-  ![GitHub stars](https://img.shields.io/github/stars/aicccux?style=social)
+  <a href="https://github.com/aicccux" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/followers/aicccux?style=social" alt="GitHub followers" />
+  </a>  
+  <a href="https://github.com/aicccux?tab=repositories" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/stars/aicccux?style=social" alt="GitHub stars" />
+  </a>
 </p>
